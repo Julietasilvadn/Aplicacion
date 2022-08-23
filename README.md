@@ -1,17 +1,3 @@
-# Entrega
-
-
-# VIDEO: https://youtu.be/nG8zKxvCnxs
-
-
-**Integrantes:**
-
-- Juan Echenique: creación de modelos, elección de bootstrap, CRUD.
-
-- Julieta Silva: herencia html, inicio de proyecto y aplicación, aplicación con estilo de bootstrap, creación de templates, corrección de formularios y modelos,registro, login, logout, casos de prueba, about, readme, video, CRUD.
-
-- Lara Dipre: creacion de templates, corrección de formularios y modelos, CRUD, avatar, casos de prueba, readme, about, video, login, logout.
-
 **Sistema de gestión de contenidos**
 
 Este proyecto tiene como objetivo crear un sistema para administrar una peluquería para mascotas. 
